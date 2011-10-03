@@ -1,2 +1,2 @@
 Django
-django-hudson
+-e git://github.com/kmmbvnr/django-jenkins.git#egg=django-jenkins
